@@ -9,15 +9,15 @@ A folder of microcontroller projects. They combine algorithmic programming with 
 
 ---Naming system---
 
- BOOL - Working only with logical signals
+ BOOL - Works only with logical signals
  
- MATH - Working only with number signals
+ MATH - Works only with number signals
  
- CONV - Working in converted pairs with logical, number and composite signals
+ CONV - Works in converted pairs with logical, number and composite signals
  
- CTRL - Working with all signals (except video) for analogue displays and complex devices
+ CTRL - Works with all signals (except video) for analogue displays and complex devices
  
- DISP - Working with video signal
+ DISP - Works with video signal
 
  
 vehicles:
